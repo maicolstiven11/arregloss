@@ -10,5 +10,5 @@ for(let numero of numeros){
 }
 
 //La diferencia que encontre es que en el primer for hay tres momentos
-//declara una variable la inicializa en uno despues la condicion y el incremento esto nos permite controlar la posicion
+//declara una variable la inicializa despues la condicion y el incremento esto nos permite controlar la posicion
 //en el segundo for nos permite recorrer directamente los valores no lo indices 
