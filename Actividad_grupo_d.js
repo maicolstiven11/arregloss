@@ -1,18 +1,17 @@
 let inventario =[
     {
-        hola:"hola",
-        a:"a",
-        uso:"comer"
+        cosa:"iphone",
+        uso:"tomar fotos"
     },
     {
-        hola:"sex",
-        uso:"aa"
+        cosa:"carro",
+        uso:"movilizarse"
     }
 ]
 
 
 for(let produc of inventario){
-    console.log(`nombre: ${produc.hola} uso principal: ${produc.uso}`);
+    console.log(`nombre: ${produc.cosa} uso principal: ${produc.uso}`);
         
 }
 
